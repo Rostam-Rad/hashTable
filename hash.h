@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2021 - Project 4
 #ifndef _HASH_H
 #define _HASH_H
 #include <string>
