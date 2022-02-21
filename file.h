@@ -1,14 +1,6 @@
-// CMSC 341 - Fall 2021 - Project 4
 // file.h
 // Simple class for use with HashTable class
 
-// To work with HashTable, a class must provide the
-// following:
-//  (a) Default constructor, and an alternative constructor
-//  (b) key function (string key()), the key is the filename
-//  (c) overloaded insertion operator
-//  (d) overloaded equality operator
-//  (e) overloaded assignment operator
 #ifndef FILE_H
 #define FILE_H
 #include <iostream>
