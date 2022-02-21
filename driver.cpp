@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2021 - Project 4
 #include "hash.h"
 #include <iostream>
 #include <random>
